@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.Tju2_xTd.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"compontents/start.md","filePath":"compontents/start.md","lastUpdated":null}'),s={name:"compontents/start.md"};function o(n,r,c,p,d,m){return a(),e("div")}const l=t(s,[["render",o]]);export{i as __pageData,l as default};
