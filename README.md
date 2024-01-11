@@ -3,37 +3,37 @@
 如果这些资源对你有帮助，👏 欢迎star 支持下
 ## 二.特别说明
 🌟 推荐的资源全部支持`vue3`，由于个人精力有限，可能会遗漏很多优秀的vue3开源资源或资源错误！还请您[点此主动推荐或修改建议](https://github.com/haochen520/vue3-nav/issues/new)！！！十分感谢🙏。
-可[点击在线预览](https://github.com/haochen520/vue3-nav)查看详细资源， 站点部署在github，可能访问过慢，请耐心等待。
+可[点击在线预览](https://ttdev.eu.org)查看详细资源， 站点部署在github，可能访问过慢，请耐心等待。
 
 ## 三.资源推荐
-资源共分为`web端`、`移动端`、`Electron`、`小程序`、`文档&工具`、`常用库`、`学习&面试`、`收藏`等8个模块，每个模块都有细分，具体查看[站点](https://github.com/haochen520/vue3-nav).
+资源共分为`web端`、`移动端`、`Electron`、`小程序`、`文档&工具`、`常用库`、`学习&面试`、`收藏`等8个模块，每个模块都有细分，具体查看[站点](https://ttdev.eu.org).
 
 - ### Web端
 
-  -  [UI库](https://github.com/haochen520/vue3-nav/platform/web/ui.html)- 推荐主流UI资源，包含`element-plus`,`Ant Design Vue`等14个UI资源
-  - [开箱即用中后台](https://github.com/haochen520/vue3-nav/platform/web/manage.html) - github热门中后台开源项目
-  - [富文本编辑器](https://github.com/haochen520/vue3-nav/platform/web/editor.html) - 推荐常用的富文本组件，包含`WangEditor V5`、`Tinymce-vue`等4个富文本编辑器
-  - [Markdown编辑器](https://github.com/haochen520/vue3-nav/platform/web/markdown.html) - 推荐常用的markdown组件，包含`Vue-markdown-editor`、`Md-editor-v3`等3个markdown资源
-  - [上传组件](https://github.com/haochen520/vue3-nav/platform/web/upload.html) - 包含`Uppy`&`Vue-filepond`
-  - [图片/背景组件](https://github.com/haochen520/vue3-nav/platform/web/img&bg.html) - 包含图片`裁剪`、`预览`、`背景`、`轮播`、`懒加载`
-  - [音频/视频组件](https://github.com/haochen520/vue3-nav/platform/web/audio&video.html) - 推荐常用的音视频组件，包含`XGplayer`、`Vue3-video-play`
-  - [图标库](https://github.com/haochen520/vue3-nav/platform/web/icons.html) - 丰富的图标资源库，包含`Iconbox`、`IconPark`、`Boxicons`、`Unplugin-icons`等图标资源
-  - [图表组件](https://github.com/haochen520/vue3-nav/platform/web/charts.html) - 优质图表组件，包含`ECharts5`、`Vue-echarts`、`Vue-highcharts`等图表资源
-  - [拖拽组件](https://github.com/haochen520/vue3-nav/platform/web/drag.html) - 包含`Vue-drag-resize`、`Vue.draggable.next`等拖拽组件
-  - [vue3项目配套资源](https://github.com/haochen520/vue3-nav/platform/web/include.html) - 包含`构建工具vite & vue cli`、`vue3全家桶`、`Nprogress.js-进度条`、`Screenfull.js-全屏`、`Vue-i18n国际化方案`
-  - [文件处理组件](https://github.com/haochen520/vue3-nav/platform/web/files.html) - 包含`Html2canvas截图`、`PDFvuer-PDF查看器`、`vue3-simple-html2pdf自动导出pdf`
-  - [动画库](https://github.com/haochen520/vue3-nav/platform/web/animate.html) - 包含`Animate.css`、 `Wow.js`、`Scrollreveal.js`等常见动画资源
-  - [地图资源](https://github.com/haochen520/vue3-nav/platform/web/map.html) - vue3地图适配的组件较少，欢迎推荐
-  - [其他组件](https://github.com/haochen520/vue3-nav/platform/web/others.html) - 包含`Vue-qrcode- 二维码`、`Vue-typical 动画输入`、`Vue3-clipboard- 剪贴板`、`Iscroll- 平滑滚动插件`
+  -  [UI库](https://ttdev.eu.org/platform/web/ui.html)- 推荐主流UI资源，包含`element-plus`,`Ant Design Vue`等14个UI资源
+  - [开箱即用中后台](https://ttdev.eu.org/platform/web/manage.html) - github热门中后台开源项目
+  - [富文本编辑器](https://ttdev.eu.org/platform/web/editor.html) - 推荐常用的富文本组件，包含`WangEditor V5`、`Tinymce-vue`等4个富文本编辑器
+  - [Markdown编辑器](https://ttdev.eu.org/platform/web/markdown.html) - 推荐常用的markdown组件，包含`Vue-markdown-editor`、`Md-editor-v3`等3个markdown资源
+  - [上传组件](https://ttdev.eu.org/platform/web/upload.html) - 包含`Uppy`&`Vue-filepond`
+  - [图片/背景组件](https://ttdev.eu.org/platform/web/img&bg.html) - 包含图片`裁剪`、`预览`、`背景`、`轮播`、`懒加载`
+  - [音频/视频组件](https://ttdev.eu.org/platform/web/audio&video.html) - 推荐常用的音视频组件，包含`XGplayer`、`Vue3-video-play`
+  - [图标库](https://ttdev.eu.org/platform/web/icons.html) - 丰富的图标资源库，包含`Iconbox`、`IconPark`、`Boxicons`、`Unplugin-icons`等图标资源
+  - [图表组件](https://ttdev.eu.org/platform/web/charts.html) - 优质图表组件，包含`ECharts5`、`Vue-echarts`、`Vue-highcharts`等图表资源
+  - [拖拽组件](https://ttdev.eu.org/platform/web/drag.html) - 包含`Vue-drag-resize`、`Vue.draggable.next`等拖拽组件
+  - [vue3项目配套资源](https://ttdev.eu.org/platform/web/include.html) - 包含`构建工具vite & vue cli`、`vue3全家桶`、`Nprogress.js-进度条`、`Screenfull.js-全屏`、`Vue-i18n国际化方案`
+  - [文件处理组件](https://ttdev.eu.org/platform/web/files.html) - 包含`Html2canvas截图`、`PDFvuer-PDF查看器`、`vue3-simple-html2pdf自动导出pdf`
+  - [动画库](https://ttdev.eu.org/platform/web/animate.html) - 包含`Animate.css`、 `Wow.js`、`Scrollreveal.js`等常见动画资源
+  - [地图资源](https://ttdev.eu.org/platform/web/map.html) - vue3地图适配的组件较少，欢迎推荐
+  - [其他组件](https://ttdev.eu.org/platform/web/others.html) - 包含`Vue-qrcode- 二维码`、`Vue-typical 动画输入`、`Vue3-clipboard- 剪贴板`、`Iscroll- 平滑滚动插件`
   
 - ### 移动端
-    - [UI库](https://github.com/haochen520/vue3-nav/platform/mobile/ui.html) - 推荐常用的UI库，包含`Vant`、`NutUI 3.0`、`Varlet`、`Ionic Framework`、`WaveUI`等优秀开源UI库
-    - [开源项目](https://github.com/haochen520/vue3-nav/platform/mobile/project.html) - 推荐优秀开源项目，帮助您更好的学习`vue3`
-    - [滚动组件](https://github.com/haochen520/vue3-nav/platform/mobile/scroll.html) - 包含`BetterScroll`、`Mescroll`、`FullPage.js`等优质移动端滚动组件
-    - [配套资源](https://github.com/haochen520/vue3-nav/platform/mobile/include.html) - 包含`Fastclick`,此资源还待完善，👏🏻 [欢迎推荐](https://github.com/hu-snail/vue3-resource/issues/new)
+    - [UI库](https://ttdev.eu.org/platform/mobile/ui.html) - 推荐常用的UI库，包含`Vant`、`NutUI 3.0`、`Varlet`、`Ionic Framework`、`WaveUI`等优秀开源UI库
+    - [开源项目](https://ttdev.eu.org/platform/mobile/project.html) - 推荐优秀开源项目，帮助您更好的学习`vue3`
+    - [滚动组件](https://ttdev.eu.org/platform/mobile/scroll.html) - 包含`BetterScroll`、`Mescroll`、`FullPage.js`等优质移动端滚动组件
+    - [配套资源](https://ttdev.eu.org/platform/mobile/include.html) - 包含`Fastclick`,此资源还待完善，👏🏻 [欢迎推荐](https://github.com/hu-snail/vue3-resource/issues/new)
     
 - ### Electron 
-    - [Electron总览资源](https://github.com/haochen520/vue3-nav/platform/electron.html) - 此资源还待完善，👏🏻 [欢迎推荐](https://github.com/hu-snail/vue3-resource/issues/new)
+    - [Electron总览资源](https://ttdev.eu.org/platform/electron.html) - 此资源还待完善，👏🏻 [欢迎推荐](https://github.com/hu-snail/vue3-resource/issues/new)
      - [Electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron + Vite + Vue 整合模板 -- 结构简单，容易上手！
      - [Vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - ⚡️Starter template with Vite2 Vue3 and Electron 11.x /使用 Vite2 Vue3 以及 Electron 11.x 打造的快速启动模版
      - [Electron-vue3-inote](https://github.com/heiyehk/electron-vue3-inote) - 使用electron13+vue3.x+ts的桌面端便笺项目，拥有漂亮的过渡动画效果，以富文本形式储存在本地，可多开输入窗口
@@ -41,7 +41,7 @@
      - [Electron-admin-element-vue](https://github.com/lqsong/electron-admin-element-vue) - Electron Vue3.x Element-UI Admin
      
 - ### 小程序
-  - [小程序资源总览](https://github.com/haochen520/vue3-nav/platform/mp/project.html) - 此资源还待完善，👏🏻 [欢迎推荐](https://github.com/hu-snail/vue3-resource/issues/new)
+  - [小程序资源总览](https://ttdev.eu.org/platform/mp/project.html) - 此资源还待完善，👏🏻 [欢迎推荐](https://github.com/hu-snail/vue3-resource/issues/new)
   - [Uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
   - [Taro](https://github.com/nervjs/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用
   - [Kbone](https://github.com/Tencent/kbone) - 一个致力于微信小程序和 Web 端同构的解决方案
@@ -49,7 +49,7 @@
   - [Nut-UI- Taro框架](https://github.com/jdf2e/nutui) - 京东风格移动端 Vue2、Vue3 组件库
 
 - ### 常用库
-  - [资源总览](https://github.com/haochen520/vue3-nav/platform/common.html) - 资源总览详情
+  - [资源总览](https://ttdev.eu.org/platform/common.html) - 资源总览详情
   - [Lodash- 实用工具库](https://github.com/lodash/lodash) - Lodash是一个一致性、模块化、高性能的 JavaScript 实用工具库
   - [Outils- 业务代码工具库](https://github.com/proYang/outils) - 前端业务代码工具库
   - [30-seconds-of-code- 代码片段](https://github.com/30-seconds/30-seconds-of-code) - 满足您所有开发需求的简短 JavaScript 代码片段

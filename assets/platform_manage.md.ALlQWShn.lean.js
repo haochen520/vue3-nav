@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./chunks/framework.Tju2_xTd.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"platform/manage.md","filePath":"platform/manage.md","lastUpdated":null}'),r={name:"platform/manage.md"};function n(o,s,m,c,p,l){return t(),e("div")}const _=a(r,[["render",n]]);export{f as __pageData,_ as default};
